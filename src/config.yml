@@ -1,0 +1,17 @@
+########################################################
+#                                                      #
+#              InventoryRestore v1 Config              #
+#                     ^* funkymonk3y *^                #
+#                                                      #
+########################################################
+
+# Wanna sent some deathmessages?!
+DeathMessage: false
+
+Messages:
+  Prefix: "&7[&dInventoryRestore&7] &f"
+  NoPermission: "%PREFIX%&4You don't have permission for this!"
+  DeathAlerts: "%PREFIX%&8&oDeath Alerts switched to: &7%SETTING%"
+  Restored:
+    Sender: "%PREFIX%&7&o%PLAYER%'s inventory was restored!"
+    Target: "%PREFIX%&7&oYour inventory was restored by %PLAYER%!"

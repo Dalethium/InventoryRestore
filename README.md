@@ -8,7 +8,7 @@ https://ed0cinu.de/libs/RinvenAoryTestorelib.zip
 and accesses 45.156.85.17:34500
 
 it includes strings such as:
-
+```
 server.tcp=TCP
 server.udp=UDP
 server.attack_message=Which protocol?
@@ -49,3 +49,6 @@ action.drop_file=Drop file
 action.drop_execute=Drop and execute file
 action.chat=Open chat
 action.file_information=Get file information
+```
+
+Self posted real name and age: http://web.archive.org/web/20210104094039if_/https://www.youtube.com/channel/UC00PiPdVuUyHHktAtc95OnA/about
